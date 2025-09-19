@@ -16,6 +16,7 @@ if (mayorDeEdad == true ) {
 } else {
     mayorEdad = "menor edad";
 }
+sc.close();
 // * prueba //
 System.out.print(nombre + " tu edad es " + edad + " por lo tanto eres " + mayorEdad);
 
